@@ -54,7 +54,7 @@ import CardC from './CardC.vue'
                     <el-row style="text-align: center; margin-top: 5vh;">
                         <el-col :span="6" class="center">
                             <el-button text style="height: 100%;width: 100%;">
-                                <el-link :underline="false" href="https://res.abeim.cn/api/qq/?qq=xxx" target="_blank"
+                                <el-link :underline="false" href="https://res.abeim.cn/api/qq/?qq=2021591968" target="_blank"
                                     hoverable="false">
                                     <IconQq class="lianxiIcon" />
                                 </el-link>
