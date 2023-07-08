@@ -1,0 +1,54 @@
+{
+    "Link": [
+        {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png",
+            "text": "Vue.js:一个渐进式 JavaScript 框架",
+            "href": "https://cn.vuejs.org/"
+        },
+        {
+            "icon": "https://cn.vitejs.dev/logo-with-shadow.png",
+            "text": "Vite:前端工具链 为开发提供极速响应",
+            "href": "https://cn.vitejs.dev/"
+        },
+        {
+            "icon": "https://ts1.cn.mm.bing.net/th/id/R-C.d333ccedb7341aad441097b529968e3c?rik=nIn1jEWu308Sgw&riu=http%3a%2f%2fp7.qhimg.com%2ft011886a4958ee63f00.png&ehk=M6eKPfozVYR4%2fDosEzIqH5iTwSGrqJamP70e6s%2fQ8C8%3d&risl=&pid=ImgRaw&r=0",
+            "text": "Bilibili:年轻人最爱的弹幕视频网站",
+            "href": "https://www.bilibili.com/"
+        },
+        {
+            "icon": "https://www.daohangtx.net/zb_users/upload/2022/12/20221216185835_79513.png",
+            "text": "掘金:在这广袤的大地上,发掘你的力量",
+            "href": "https://juejin.cn/"
+        },
+        {
+            "icon": "https://iconape.com/wp-content/files/rp/370831/svg/electron-logo-icon-png-svg.png",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        },
+        {
+            "icon": "https://iconape.com/wp-content/png_logo_vector/element-ui.png",
+            "text": "Element-Plus:一个实用便捷的Vue3UI",
+            "href": "https://element-plus.org/zh-CN/"
+        },
+        {
+            "icon": "https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png",
+            "text": "Nuxt.js:一个直观的Vue框架",
+            "href": "https://nuxtjs.org/"
+        },
+        {
+            "icon": "https://img.zcool.cn/community/012a4c5d724c27a801202f17b8dbd9.png@1280w_1l_2o_100sh.png",
+            "text": "网易云音乐:累了吗，听首歌吧",
+            "href": "https://music.163.com/"
+        },
+        {
+            "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.GQilyxAvafi49DVzO2YU_AHaHa?pid=ImgDet&rs=1",
+            "text": "阿里云:为了无法计算的价值",
+            "href": "https://www.aliyun.com/?spm=5176.12901015-2.0.0.4edb4b841023WK"
+        },
+        {
+            "icon": "https://f.msup.com.cn/a25c7ab9962bf6c9b6b96cdf9f5fc40a.png",
+            "text": "华为云:科技赋能时代",
+            "href": "https://www.huaweicloud.com/"
+        }
+    ]
+}

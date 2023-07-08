@@ -1,0 +1,106 @@
+{
+    "Link1Data": [
+        {
+            "avatar": "Vue",
+            "text": "Vue.js:一个渐进式 JavaScript 框架",
+            "href": "https://cn.vuejs.org/"
+        },
+        {
+            "avatar": "Vite",
+            "text": "Vite:前端工具链 为开发提供极速响应",
+            "href": "https://cn.vitejs.dev/"
+        },
+        {
+            "avatar": "Bili",
+            "text": "Bilibili:年轻人最爱的弹幕视频网站",
+            "href": "https://www.bilibili.com/"
+        },
+        {
+            "avatar": "Git",
+            "text": "GiteHub:开源,学习使你成长",
+            "href": "https://github.com/"
+        },
+        {
+            "avatar": "Eleme",
+            "text": "Element-Plus:一个实用便捷的Vue3UI",
+            "href": "https://element-plus.org/zh-CN/"
+        },
+        {
+            "avatar": "Arco",
+            "text": "Arco Design:一个美观高自定义的Vue3UI",
+            "href": "https://arco.design/"
+        },
+        {
+            "avatar": "Gitee",
+            "text": "Gitee:国内开源社区",
+            "href": "https://gitee.com/"
+        },
+        {
+            "avatar": "菜鸟",
+            "text": "菜鸟:从菜鸟开始,实现你的梦想",
+            "href": "https://www.runoob.com/"
+        },
+        {
+            "avatar": "轻服务",
+            "text": "腾讯轻服务器:学习免费使用的微服务器",
+            "href": "https://cloudstudio.net/"
+        },
+        {
+            "avatar": "掘金",
+            "text": "稀土掘金:在这广袤的大地上,发掘你的力量",
+            "href": "https://juejin.cn/"
+        },
+        {
+            "avatar": "SOF",
+            "text": "stackoverflow:面向疑问编程",
+            "href": "https://stackoverflow.org.cn/"
+        },
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https://www.electronjs.org/zh/"
+        }
+    ],
+    "Work1": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ],
+    "Work2": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ],
+    "Work3": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ],
+    "Relax1": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ],
+    "Relax2": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ],
+    "Relax3": [
+        {
+            "avatar": "Electron",
+            "text": "Electron.js:构建基于浏览器的时代",
+            "href": "https: //www.electronjs.org/zh/"
+        }
+    ]
+}
