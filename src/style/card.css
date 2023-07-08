@@ -1,0 +1,44 @@
+.text-card {
+    background: transparent;
+    margin-top: 2vh;
+    filter: blur(0.5px);
+}
+
+#card1 {
+    background: transparent;
+    height: 32vh;
+}
+
+.main-card {
+    margin-top: 2vh;
+}
+
+#line-box {
+    height: 48vh;
+    background: transparent;
+}
+
+.Nav-box {
+    height: 23vh;
+    background: transparent;
+}
+
+.bottom {
+    margin-top: 1.5vh;
+}
+
+.Box {
+    height: 16vh;
+    background: transparent;
+}
+
+.clock {
+    font-variant-numeric: tabular-nums;
+    font-size: 42px;
+}
+
+.Other {
+    height: 100%;
+    background: transparent;
+    filter: blur(2px);
+}
