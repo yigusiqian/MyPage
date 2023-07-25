@@ -1,0 +1,18 @@
+.Navigation {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://ts1.cn.mm.bing.net/th/id/R-C.27dc9c722427215e8528bd53af8a02ef?rik=9orji1o%2fkZtyew&riu=http%3a%2f%2fpic.bizhi360.com%2fbbpic%2f9%2f6409.jpg&ehk=iOfFdRyqsBs%2b44mecRgvNSqSHMQNAcdSpxyIE4wkcYM%3d&risl=&pid=ImgRaw&r=0);
+}
+
+#main-card {
+    background: transparent;
+    height: 180vh;
+}
+
+#Navcard2,
+#Navcard3 {
+    margin-top: 15px;
+
+}

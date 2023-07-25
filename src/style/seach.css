@@ -1,0 +1,27 @@
+.search {
+    height: 98vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://ts1.cn.mm.bing.net/th/id/R-C.021225f3b7ad9e0df72a39331226f15b?rik=%2f9p1gHVx8P8J%2bQ&riu=http%3a%2f%2fimg1.qunarzz.com%2ftravel%2fd6%2f1706%2fc9%2f58a356a8a77dfab5.jpg&ehk=JIhZ5Tq9339JZAomivLHdYErmMKwXIFO5K2wVEm5m5Y%3d&risl=&pid=ImgRaw&r=0);
+}
+
+.input {
+    width: 72%;
+    margin-left: 14%;
+    margin-top: 2vh;
+}
+
+.TimeBox {
+    width: 72%;
+    margin-left: 14%;
+    margin-top: 7%;
+}
+
+.searchTime {
+    background-color: rgba(245, 255, 250, 0.3);
+    width: 72%;
+    margin-left: 14%;
+    height: 90vh;
+
+}
