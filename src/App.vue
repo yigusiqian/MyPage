@@ -18,10 +18,10 @@
             导航
           </a-menu-item>
         </Router-link>
-        <Router-link to="/Seach">
+        <Router-link to="/Tool">
           <a-menu-item key="0_3">
             <icon-common />
-            搜索
+            工具
           </a-menu-item>
         </Router-link>
         <a-sub-menu>
