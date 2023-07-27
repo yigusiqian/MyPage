@@ -6,6 +6,8 @@
 ### 一、使用Vite:下载-->解压-->直接拖入VsCode-->Vite自动提示，根据提示安装运行
 ### 二、手动安装包：下载-->解压-->使用IDE打开-->进入命令行-->cd进入文件夹-->npm install-->npm run dev
 ### TODO :1、修复菜单伸缩将挤压内容 2、更新新功能 3、排除bug并修复
+示例：
+- [我的主页](https://my-home-page-yigusiqian.vercel.app/)
 
 ## V0.03
 #### 现版本增加了部分新功能，并小幅度优化了样式适配，但仍存在部分Bug
