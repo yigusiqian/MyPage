@@ -2,7 +2,7 @@
   <a-layout class="layout">
     <a-layout-sider collapsible breakpoint="xl" :width="LayOutWidth">
       <div class="logo">
-        <a-avatar :size="32" shape="square" imageUrl="../src/assets/Logo.png" />
+        <a-avatar :size="32" shape="square" imageUrl="../src/assets/SiteIcon.png" />
         <a-typography-text code>Power By 忆故思迁</a-typography-text>
       </div>
       <a-menu class="menu" :default-selected-keys="['0_1']">
